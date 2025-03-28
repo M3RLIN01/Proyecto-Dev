@@ -7,3 +7,7 @@ print(f"La suma de los dos valores es: {num1 + num2}")
 print(f"La resta de los dos valores es: {num1 - num2}")
 print(f"La Multiplicaion de los dos valores es: {num1 * num2}")
 print(f"La Division de los dos valores es: {num1 // num2}")
+
+
+
+print("cambios cris")
