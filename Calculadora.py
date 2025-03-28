@@ -9,7 +9,4 @@ print(f"La Multiplicaion de los dos valores es: {num1 * num2}")
 print(f"La Division de los dos valores es: {num1 // num2}")
 
 
-
-
-
 print("Cambio seba")
